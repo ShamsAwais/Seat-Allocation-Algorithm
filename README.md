@@ -35,3 +35,11 @@ Example Output file :
 BECP1, 3
 
 BECP2, 4
+
+**Run the SeatAllotment.py**
+
+The input1.txt file should contain ```college number, seats available```
+
+The input2.txt file should contain ```Roll no, Rank, list of college numbers``` i.e. prefrenced list
+
+The output.txt file contains ```Roll no, college no``` i.e. where the seat is alloted of each student
