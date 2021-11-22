@@ -36,7 +36,7 @@ BECP1, 3
 
 BECP2, 4
 
-**Run the SeatAllotment.py**
+**Run the ```SeatAllotment.py```**
 
 The input1.txt file should contain ```college number, seats available```
 
